@@ -1,0 +1,9 @@
+
+.Tilt {
+  background: linear-gradient(to right, #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%); /* w3c */
+}
+
+.logoImg img {
+    width: 80%;
+    height: 80%;
+}
