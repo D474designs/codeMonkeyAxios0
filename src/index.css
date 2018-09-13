@@ -2,9 +2,9 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Courier New", Courier, monospace;
-  background: linear-gradient(to right, #62c999 0%,#2edb62 12%,#2edb62 12%,#ea5507 100%,#ea5507 100%,#ce353d 100%,#ea3007 100%,#dd2306 102%);
+  background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%); /* w3c */
 }
 
-button{
-  curson: pointer;
+button {
+  cursor: pointer;
 }
