@@ -15,6 +15,6 @@ Become a Code Monkey today!
 1. enjoy!
 
 # Team
-Data, Pancho, Pete, Chepe
-Hola Code Cohort 2
-Greenfield Project
+* Data, Pancho, Pete, Chepe
+* Hola Code Cohort 2
+* Greenfield Project
