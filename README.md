@@ -9,6 +9,11 @@ User registration, a forum board, tutorial comments, and video, as well as a tut
 
 Become a Code Monkey today!
 
+# Instructions
+1. in your console run "npm install"
+1. wait for the installation to complete, then type "npm run start
+1. enjoy!
+
 # Team
 Data, Pancho, Pete, Chepe
 Hola Code Cohort 2
